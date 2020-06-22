@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Hello my name is Zhicheng Zhu. I am a geek since childhood. Also I am a boring guy. I don't know why you look at this website. But thank you anyway :-)
+Hello my name is Zhicheng Zhu. I have been a geek since childhood. BTW, this is a boring site. I don't know why you look at this website. But thank you anyway :-)
