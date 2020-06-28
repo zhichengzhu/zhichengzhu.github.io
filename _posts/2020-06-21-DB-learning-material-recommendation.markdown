@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "DB Learning Material Recomendation"
-date:   2020-06-20 21:26:29
-categories: jekyll update
+tags: DB
+date:   2020-06-20 
 ---
 
 Originally the reason I started this site is to record all my learning experience for MySQL. But sadly, only after working for one half in FB MySQL team, I decided to leave the team. This is not because I don’t like DB. In fact, I really enjoyed the DB learning experience. The reason I left the team is more about personal growth and the way people lead that team. If I have time, I will write more details in future. 
