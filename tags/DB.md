@@ -1,7 +1,5 @@
 ---
 layout: tag_page
-tag: DB
+tag: DB 
 permalink: /tags/DB
 ---
-
-
